@@ -21,7 +21,7 @@ npm install --save echarts-liquidfill
 # Rebuild
 npm rebuild node-sass
 
-ionic start smartHid blank
+ionic start ionic4-04 blank --type=angular
 
 1. Init Repo (VSCode)
 
